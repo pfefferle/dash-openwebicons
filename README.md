@@ -15,9 +15,10 @@ To rebuild or update this docset run the following commands in the following ord
 
 1. checkout the [OpenWeb Icons] font: `$ git clone git://github.com/pfefferle/openwebicons.git`
 1. install cheatset `$ sudo gem install cheatset`
-1. switch to docset folder `$ cd openwebicons/docset`
 1. run `$ cheatset generate openwebicons.rb` to build new docset
 1. `$ sh pack.sh` to build the tgz file for a new release
+
+or run the grunt task!
 
 ## Changelog
 
