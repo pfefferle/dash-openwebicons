@@ -84,6 +84,6 @@ cheatsheet do
   end
 
   notes <<-EOS
-  * OpenWeb Icons by Matthias Pfefferle - http://notizblog.org/
+  * OpenWebIcons by Matthias Pfefferle - https://notiz.blog/
   EOS
 end

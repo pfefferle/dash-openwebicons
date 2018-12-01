@@ -14,6 +14,7 @@
   display: inline-block;
   text-decoration: inherit;
   vertical-align: center;
+  speak: none;
   font-smoothing: antialiased;
   -webkit-font-smoothing: antialiased;
 }
@@ -549,6 +550,61 @@ li[class^="openwebicons-"], li[class*=" openwebicons-"] {
   content: "";
 }
 
+.icon-mastodon:before,
+.openwebicons-mastodon:before {
+  content: "";
+}
+
+.icon-jsonfeed:before,
+.openwebicons-jsonfeed:before {
+  content: "";
+}
+
+.icon-pump-io:before,
+.openwebicons-pump-io:before {
+  content: "";
+}
+
+.icon-friendica:before,
+.openwebicons-friendica:before {
+  content: "";
+}
+
+.icon-hubzilla:before,
+.openwebicons-hubzilla:before {
+  content: "";
+}
+
+.icon-fediverse:before,
+.openwebicons-fediverse:before {
+  content: "";
+}
+
+.icon-mastodon-simple:before,
+.openwebicons-mastodon-simple:before {
+  content: "";
+}
+
+.icon-activitypub:before,
+.openwebicons-activitypub:before {
+  content: "";
+}
+
+.icon-wapuu:before,
+.openwebicons-wapuu:before {
+  content: "";
+}
+
+.icon-micro-blog:before,
+.openwebicons-micro-blog:before {
+  content: "";
+}
+
+.icon-indieauth:before,
+.openwebicons-indieauth:before {
+  content: "";
+}
+
 .icon-apml-colored:before,
 .openwebicons-apml-colored:before {
   content: "";
@@ -685,4 +741,16 @@ li[class^="openwebicons-"], li[class*=" openwebicons-"] {
 .openwebicons-gnusocial-colored:before {
   content: "";
   color: #a22430;
+}
+
+.icon-mastodon-colored:before,
+.openwebicons-mastodon-colored:before {
+  content: "";
+  color: #2b90d9;
+}
+
+.icon-mastodon-simple-colored:before,
+.openwebicons-mastodon-simple-colored:before {
+  content: "";
+  color: #2b90d9;
 }

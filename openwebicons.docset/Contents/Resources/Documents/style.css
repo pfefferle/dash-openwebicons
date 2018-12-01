@@ -127,7 +127,7 @@ tr:last-child {
 td.command, td.td_command {
   width: 1%;
   white-space: nowrap;
-  vertical-align: top;
+  vertical-align:top;
   padding: 9px 8px 4px 7px;
   text-align: right; }
   td.command code, td.td_command code {
